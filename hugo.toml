@@ -11,8 +11,8 @@ home = ["HTML", "RSS", "JSON"]
 
 [params]
 env = "production"
-title = "Pablo Love Shot"
-description = "Hugo로 만든 개인 블로그"
+title = "PabloBlog"
+description = "Pablo's Personal Blog"
 defaultTheme = "auto"
 ShowReadingTime = true
 ShowShareButtons = true
@@ -20,8 +20,8 @@ ShowPostNavLinks = true
 ShowCodeCopyButtons = true
 
 [params.homeInfoParams]
-Title = "Pablo Love Shot"
-Content = "Hugo와 PaperMod로 다시 시작한 블로그입니다."
+Title = "PabloBlog"
+Content = "Pable의 개인 블로그입니다."
 
 [[menu.main]]
 identifier = "posts"
