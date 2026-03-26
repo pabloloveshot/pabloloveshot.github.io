@@ -1,6 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Home on Pablo Love Shot</title><link>https://pabloloveshot.github.io/</link><description>Recent content in Home on Pablo Love Shot</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Thu, 26 Mar 2026 10:39:00 +0900</lastBuildDate><atom:link href="https://pabloloveshot.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://pabloloveshot.github.io/posts/my-first-post/</link><pubDate>Thu, 26 Mar 2026 10:39:00 +0900</pubDate><guid>https://pabloloveshot.github.io/posts/my-first-post/</guid><description>&lt;p&gt;개인 블로그를 새로 시작합니다.&lt;/p&gt;</description></item><item><title>My Second Post</title><link>https://pabloloveshot.github.io/posts/my-second-post/</link><pubDate>Thu, 26 Mar 2026 10:39:00 +0900</pubDate><guid>https://pabloloveshot.github.io/posts/my-second-post/</guid><description>&lt;p&gt;##Hugo 윈도우 11 실행법
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Pablo Love Shot</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Pablo Love Shot</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 26 Mar 2026 10:39:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 26 Mar 2026 10:39:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;개인 블로그를 새로 시작합니다.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Thu, 26 Mar 2026 10:39:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>&lt;p&gt;##Hugo 윈도우 11 실행법
 $ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 $ irm get.scoop.sh | iex
 $ scoop install hugo-extended
-$ git clone &lt;a href="https://github.com/pabloloveshot/pabloloveshot.github.io"&gt;https://github.com/pabloloveshot/pabloloveshot.github.io&lt;/a&gt;
-$ hugo &amp;ndash;mintify&lt;/p&gt;</description></item></channel></rss>
+$ git clone &lt;a href=&#34;https://github.com/pabloloveshot/pabloloveshot.github.io&#34;&gt;https://github.com/pabloloveshot/pabloloveshot.github.io&lt;/a&gt;
+$ hugo &amp;ndash;mintify&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
