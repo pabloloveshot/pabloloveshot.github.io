@@ -1,0 +1,16 @@
+baseURL = "https://pabloloveshot.github.io/"
+languageCode = "ko-kr"
+title = "My Vibe Coding Projects"
+theme = "PaperMod"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  env = "production"
+  title = "My Vibe Coding Projects"
+  description = "AI 연구와 프로젝트를 기록하는 공간입니다."
+  
+  [params.homeInfoParams]
+    Title = "My Vibe Coding Projects 👋"
+    Content = "반갑습니다. 이곳은 AI 연구와 프로젝트를 기록하는 공간입니다."
