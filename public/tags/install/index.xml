@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Install on Pablo Love Shot</title>
+    <link>http://localhost:1313/tags/install/</link>
+    <description>Recent content in Install on Pablo Love Shot</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 26 Mar 2026 15:41:49 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/install/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Install</title>
+      <link>http://localhost:1313/posts/hugo-install/</link>
+      <pubDate>Thu, 26 Mar 2026 15:41:49 +0900</pubDate>
+      <guid>http://localhost:1313/posts/hugo-install/</guid>
+      <description>&lt;p&gt;Hugo Install(Windows 11에서)&lt;/p&gt;
+&lt;p&gt;$ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser&lt;/p&gt;
+&lt;p&gt;$ irm get.scoop.sh | iex&lt;/p&gt;
+&lt;p&gt;$ scoop install hugo-extended&lt;/p&gt;
+&lt;p&gt;$ hugo version&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

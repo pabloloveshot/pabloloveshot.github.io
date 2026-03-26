@@ -2,7 +2,7 @@
 date = '2026-03-26T15:31:50+09:00'
 draft = false
 title = '새로운 포스트 만들때'
-tags = ["git", "commands"]
+tags = ["git", "hugo"]
 +++
 새로운 포스트 만들때 git 사용법
 

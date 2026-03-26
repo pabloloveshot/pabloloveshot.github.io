@@ -6,8 +6,19 @@
     <description>Recent content in Posts on Pablo Love Shot</description>
     <generator>Hugo</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 26 Mar 2026 15:31:50 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 15:41:49 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Install</title>
+      <link>http://localhost:1313/posts/hugo-install/</link>
+      <pubDate>Thu, 26 Mar 2026 15:41:49 +0900</pubDate>
+      <guid>http://localhost:1313/posts/hugo-install/</guid>
+      <description>&lt;p&gt;Hugo Install(Windows 11에서)&lt;/p&gt;
+&lt;p&gt;$ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser&lt;/p&gt;
+&lt;p&gt;$ irm get.scoop.sh | iex&lt;/p&gt;
+&lt;p&gt;$ scoop install hugo-extended&lt;/p&gt;
+&lt;p&gt;$ hugo version&lt;/p&gt;</description>
+    </item>
     <item>
       <title>새로운 포스트 만들때</title>
       <link>http://localhost:1313/posts/second-post/</link>
