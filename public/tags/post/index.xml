@@ -15,17 +15,5 @@
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;p&gt;개인 블로그를 새로 시작합니다.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>My Second Post</title>
-      <link>http://localhost:1313/posts/my-second-post/</link>
-      <pubDate>Thu, 26 Mar 2026 10:39:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>&lt;p&gt;##Hugo 윈도우 11 실행법
-$ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-$ irm get.scoop.sh | iex
-$ scoop install hugo-extended
-$ git clone &lt;a href=&#34;https://github.com/pabloloveshot/pabloloveshot.github.io&#34;&gt;https://github.com/pabloloveshot/pabloloveshot.github.io&lt;/a&gt;
-$ hugo &amp;ndash;mintify&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
