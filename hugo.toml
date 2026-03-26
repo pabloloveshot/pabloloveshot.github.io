@@ -1,6 +1,6 @@
 baseURL = "https://pabloloveshot.github.io/"
 languageCode = "ko-kr"
-title = "Pablo Love Shot"
+title = "Pablo's Blog"
 theme = "PaperMod"
 
 [pagination]
